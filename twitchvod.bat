@@ -1,3 +1,5 @@
+@echo off
+
 IF %1.==. GOTO NoURL
 IF %2.==. GOTO NoQuality
 
