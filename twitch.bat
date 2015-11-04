@@ -1,3 +1,5 @@
+@echo off
+
 IF %1.==. GOTO NoURL
 set defaultQuality=best
 set chat=false
